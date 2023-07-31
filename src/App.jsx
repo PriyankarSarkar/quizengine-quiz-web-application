@@ -1,5 +1,5 @@
-import "../styles/src.css";
-import "../styles/custom.css";
+import "./styles/src.css";
+import "./styles/custom.css";
 
 function App() {
   return (
