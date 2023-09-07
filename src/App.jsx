@@ -1,10 +1,11 @@
 import "./styles/src.css";
 import "./styles/custom.css";
+import Home from "./Pages/Home";
 
 function App() {
   return (
-    <div className="test-div text-white text-2xl tracking-wider bg-blue-400 flex justify-center font-bold">
-      Hello world!
+    <div className="w-screen h-full">
+      <Home />
     </div>
   );
 }
